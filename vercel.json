@@ -1,6 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "/lemonsqueezy_webhook_handler.py" }
+    { "source": "/(.*)", "destination": "/api/index" }
   ]
 }
-
